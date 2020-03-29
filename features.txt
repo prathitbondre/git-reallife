@@ -8,4 +8,4 @@ Feature 5 bugs fixed.
 Feature 3 bugs fixed.
 Hotfix in prod 1.0.1
 
-Feature 4 build in progress.
+Feature 4 completed and ready to be part of next release.
